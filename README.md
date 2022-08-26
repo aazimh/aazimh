@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aazimh
 - 👀 I’m interested in web development, cryptocurrency, NFTs
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning NodeJS
 - 📫 @aazimh on Twitter
 
 <!---
