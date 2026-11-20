@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aazimh
 - 📫 @aazimh on Twitter
-- [Website](aazimhaque.com)
+- [Website](https://aazimhaque.com)
 
 <!---
 aazimh/aazimh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
